@@ -1,52 +1,40 @@
-⚡ Welcome to Dasindu2025's Chaotic GitHub ⚡
+👋 Hi, I’m Dasindu2025
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300" alt="Glitchy Neon Intro"/>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="400" alt="Animated Coding"/>
 </p>---
 
-💥 About Me
+💻 About Me
 
-- Name: Dasindu2025
-- Role: Game Developer | Software Dev | Tech Enthusiast
-- Hobby: Creating chaos in code, gaming, neon vibes
-
----
-
-🎮 Skills
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Coding Animation"/>
-</p>- Programming: C++, C#, Lua, Python
-- Game Dev: Unreal Engine 5, Unity, Blender
-- Other Tools: Git, GitHub, VS Code, Canva
-- Vibes: Neon + Chaotic + Heavy Animations 😎
+- Game Developer | Software Developer | Tech Enthusiast
+- Learning & experimenting with Unreal Engine 5, Unity, C++, C#
+- Love gaming, neon vibes, and coding chaos
 
 ---
 
 📊 GitHub Stats
 
 <p align="center">
-  ![Dasindu2025 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dasindu2025&show_icons=true&theme=dark&count_private=true)
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Dasindu2025.Dasindu2025" alt="Visitor Badge"/>
+  <!-- Total contributions + streak -->
+  ![Dasindu2025's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dasindu2025&show_icons=true&theme=radical&count_private=true)
+</p><p align="center">
+  <!-- Top languages -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasindu2025&layout=compact&theme=radical)
+</p><p align="center">
+  <!-- Visitor Badge -->
+  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Dasindu2025.Dasindu2025)
 </p>---
 
-⚡ Latest Projects
+🚀 Projects
 
 Project| Status| Link
-Port City Roleplay| 🚀 Live| "GitHub" (https://github.com/Dasindu2025/PortCityRoleplay)
-Cursed Expanse (Game)| 🎮 Dev| Coming Soon
-Lion RP| 🔥 Live| "GitHub" (https://github.com/Dasindu2025/LionRP)
+Port City Roleplay| Live| "GitHub" (https://github.com/Dasindu2025/PortCityRoleplay)
+Cursed Expanse| Development| Coming Soon
+Lion RP| Live| "GitHub" (https://github.com/Dasindu2025/LionRP)
 
 ---
 
-💫 Fun Animated Chaos
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Glitch Chaos"/>
-  <img src="https://media.giphy.com/media/3o6ZsY3oZkQlL8dTZ2/giphy.gif" width="300" alt="Particles Everywhere"/>
-</p>---
-
-⚡ Connect with Me
+🔗 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/Dasindu2025"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -55,5 +43,5 @@ Lion RP| 🔥 Live| "GitHub" (https://github.com/Dasindu2025/LionRP)
 </p>---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Laggy Neon Footer"/>
-</p>✨ Warning: Heavy neon chaos ahead. Enter at your own risk! ⚡
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Coding Animation"/>
+</p>✨ Professional but interactive, showing all stats dynamically!
