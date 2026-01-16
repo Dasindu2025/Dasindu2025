@@ -1,47 +1,43 @@
-<h1 align="center">👋 I’m Dasindu Sithmira</h1>
+<h1 align="center">Hi, I’m Dasindu Sithmira 👋</h1>
 
 <h3 align="center">
 Founder & Lead Architect — <b>Hela Dev Studios</b><br/>
-3D Artist • Game Developer • Full-Stack SaaS Engineer
+Game Developer • 3D Artist • Full-Stack SaaS Engineer
 </h3>
 
 <p align="center">
-I build <b>games, 3D digital worlds, and scalable software systems</b> —  
-combining creative production with real engineering architecture.
+I build <b>games, 3D digital worlds, and scalable software systems</b>.<br/>
+Focused on production pipelines, performance, and shipping real products.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&center=true&vCenter=true&width=800&lines=Founder+of+Hela+Dev+Studios;Unreal+Engine+Game+Developer;3D+Artist+%7C+Blender;Full-Stack+SaaS+%26+Web+Developer;Building+from+Sri+Lanka+to+Global" />
 </p>
 
 ---
 
 ## 🚀 What I Do
 
-- 🎮 **Game Development** — Unreal Engine (Blueprints-first, production pipelines)
-- 🎨 **3D Art & Modeling** — Game-ready assets, environments, optimization-focused
-- 🧠 **SaaS & System Engineering** — Full-stack platforms, admin systems, APIs
-- 🏢 **Studio Building** — Founder of <b>Hela Dev Studios</b> (Sri Lanka → Global)
+- 🎮 **Game Development** — Unreal Engine (Blueprints-first, scalable systems)
+- 🎨 **3D Art & Modeling** — Game-ready assets, environments, optimization
+- 💻 **SaaS & Web Systems** — Full-stack platforms, admin dashboards, APIs
+- 🏢 **Studio Building** — Founder of <b>Hela Dev Studios</b>
 
 I don’t just build features —  
 I design **systems that ship**.
 
 ---
 
-## 🏗️ Flagship Work
+## 🧠 Flagship Work
 
-### 🧠 PulseBoost AI  
-AI-powered Windows performance & optimization platform  
-- Real-time system telemetry  
-- Desktop + backend architecture  
-- Built for gamers & power users  
+**🧬 PulseBoost AI**  
+AI-powered Windows performance & optimization platform
 
-### ⏱️ Tyotrack  
-Enterprise work-time management SaaS  
-- Admin & Super-Admin systems  
-- Employee analytics & reporting  
-- Scalable PostgreSQL-based backend  
+**⏱️ Tyotrack**  
+Work-time management & reporting SaaS
 
-### 🎮 Game Development
-- Unreal Engine gameplay systems  
-- Blueprint-driven mechanics  
-- Performance-aware pipelines  
+**🎮 Game Development**  
+Unreal Engine gameplay systems and prototypes
 
 ---
 
@@ -61,46 +57,33 @@ Enterprise work-time management SaaS
 
 ### 🎮 Game & 3D
 <p>
-<img src="https://skillicons.dev/icons?i=unreal,blender" />
+  <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" />
 </p>
 
 ### 💻 Web & SaaS
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,postgres,prisma,react" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,prisma,tailwind&theme=dark" />
 </p>
 
 ### ⚙️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,github&theme=dark" />
 </p>
-
----
-
-## 🧠 How I Think
-
-- Systems > scripts  
-- Architecture before features  
-- Performance is a feature  
-- UI must *feel* alive  
-- Shipping beats perfection  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dasindu2025&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dasindu2025&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dasindu2025&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasindu2025&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Collaboration
 
-I don’t use generic “contact forms”.
+I don’t use generic “Contact Us” forms.
 
 If you’re interested in:
 - Game development
